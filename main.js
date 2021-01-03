@@ -1,5 +1,5 @@
 const shareArrows = document.querySelectorAll(".arrow");
-const widthQuery = window.matchMedia("(min-width: 1000px)");
+const widthQuery = window.matchMedia("(min-width: 900px)");
 
 const authorSection = document.querySelector(".author-section");
 const activeState = document.querySelector(".active-state");
